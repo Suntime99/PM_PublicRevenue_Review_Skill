@@ -8,6 +8,7 @@
 |---|---|---|
 | `browser_scraper.py` | 通用浏览器采集工具（基于cdpwave，驱动Edge/Chrome） | ✅ 已验证 |
 | `legal_fulltext_fetcher.py` | 法规全文批量下载工具（基于flk.npc.gov.cn，含常用法规ID映射表） | ✅ 已验证 |
+| `provincial_law_fetcher.py` | **省级法规库合规采集工具**（各省人大/司法厅法规库，已验证湖南） | ✅ 已验证 |
 | `gen_version_diff.py` | 法规版本差异分析工具（新旧版本条款对比，供P13审查） | ✅ 已验证 |
 | `batch_laws_example.json` | 批量下载配置模板 | ✅ |
 
