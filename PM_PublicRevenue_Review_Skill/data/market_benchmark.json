@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "name": "公共收益行业均价参照数据库",
+    "version": "2.0",
+    "lastUpdated": "2026-10-10",
+    "description": "各类公共收益来源的行业参考价格范围（扩充版，覆盖广告/租赁/设施/停车4大类30+小类），随地区和年份变化，仅供参考"
+  },
+  "advertising": {
+    "elevator_frame": {
+      "name": "电梯框架广告",
+      "unit": "元/部/年",
+      "range": {
+        "min": 3000,
+        "max": 8000
+      },
+      "notes": "城市核心区偏高，郊区偏低"
+    },
+    "elevator_video": {
+      "name": "电梯视频广告",
+      "unit": "元/部/年",
+      "range": {
+        "min": 5000,
+        "max": 15000
+      },
+      "notes": "取决于屏幕数量和位置"
+    },
+    "lobby": {
+      "name": "大堂广告位",
+      "unit": "元/个/年",
+      "range": {
+        "min": 5000,
+        "max": 20000
+      },
+      "notes": "取决于位置和面积"
+    },
+    "exterior_wall": {
+      "name": "外墙广告牌",
+      "unit": "元/块/年",
+      "range": {
+        "min": 50000,
+        "max": 500000
+      },
+      "notes": "取决于面积和位置"
+    },
+    "light_box": {
+      "name": "灯箱广告",
+      "unit": "元/个/年",
+      "range": {
+        "min": 3000,
+        "max": 10000
+      },
+      "notes": "取决于位置"
+    },
+    "elevator_door": {
+      "name": "电梯轿厢内门贴广告",
+      "unit": "元/部/年",
+      "range": {
+        "min": 1500,
+        "max": 4000
+      },
+      "notes": "内门贴广告单价低于框架"
+    },
+    "entrance_machine": {
+      "name": "单元门禁广告机",
+      "unit": "元/台/年",
+      "range": {
+        "min": 2000,
+        "max": 6000
+      },
+      "notes": "含门禁屏广告+门禁卡广告"
+    },
+    "barrier_gate": {
+      "name": "道闸广告（车辆出入闸）",
+      "unit": "元/套/年",
+      "range": {
+        "min": 8000,
+        "max": 30000
+      },
+      "notes": "小区出入口道闸广告"
+    },
+    "ground_sign": {
+      "name": "园区立牌/指示牌广告",
+      "unit": "元/块/年",
+      "range": {
+        "min": 2000,
+        "max": 10000
+      },
+      "notes": "视位置和流量"
+    },
+    "roof_sign": {
+      "name": "楼顶广告字",
+      "unit": "元/块/年",
+      "range": {
+        "min": 30000,
+        "max": 200000
+      },
+      "notes": "城市核心区偏高"
+    },
+    "digital_screen": {
+      "name": "电梯电子屏（联网屏）",
+      "unit": "元/部/年",
+      "range": {
+        "min": 6000,
+        "max": 20000
+      },
+      "notes": "联网屏单价高于框架，含内容更新服务"
+    }
+  },
+  "rental": {
+    "parcel_locker": {
+      "name": "快递柜进场费",
+      "unit": "元/组/年",
+      "range": {
+        "min": 3000,
+        "max": 8000
+      },
+      "notes": "丰巢、菜鸟等品牌"
+    },
+    "vending_machine": {
+      "name": "自动售货机",
+      "unit": "元/台/年",
+      "range": {
+        "min": 2000,
+        "max": 5000
+      },
+      "notes": ""
+    },
+    "telecom_base": {
+      "name": "通信基站",
+      "unit": "元/站/年",
+      "range": {
+        "min": 30000,
+        "max": 100000
+      },
+      "notes": "取决于运营商和设备"
+    },
+    "charging_pile": {
+      "name": "充电桩（汽车）",
+      "unit": "元/桩/年",
+      "range": {
+        "min": 500,
+        "max": 2000
+      },
+      "notes": "电费分成另计"
+    },
+    "water_dispenser": {
+      "name": "售水机（直饮水机）",
+      "unit": "元/台/年",
+      "range": {
+        "min": 1500,
+        "max": 5000
+      },
+      "notes": "含场地费+电费分成"
+    },
+    "parcel_station": {
+      "name": "快递驿站/快递服务中心",
+      "unit": "元/间/年",
+      "range": {
+        "min": 10000,
+        "max": 50000
+      },
+      "notes": "视面积和位置"
+    },
+    "e_bike_charging": {
+      "name": "电动自行车充电桩",
+      "unit": "元/桩/年",
+      "range": {
+        "min": 300,
+        "max": 1500
+      },
+      "notes": "电费分成另计"
+    },
+    "roof_pv": {
+      "name": "屋顶光伏（分布式）",
+      "unit": "元/kW/年",
+      "range": {
+        "min": 500,
+        "max": 1500
+      },
+      "notes": "按装机容量计，含电费收益分成"
+    },
+    "community_groupbuy": {
+      "name": "社区团购自提点",
+      "unit": "元/点/年",
+      "range": {
+        "min": 3000,
+        "max": 15000
+      },
+      "notes": "含团长服务费分成"
+    },
+    "locker_cabinet": {
+      "name": "储物柜/寄存柜",
+      "unit": "元/组/年",
+      "range": {
+        "min": 2000,
+        "max": 8000
+      },
+      "notes": ""
+    },
+    "atm": {
+      "name": "银行ATM场地",
+      "unit": "元/台/年",
+      "range": {
+        "min": 10000,
+        "max": 40000
+      },
+      "notes": "老旧小区可能不再续约"
+    },
+    "telecom_cabinet": {
+      "name": "通信交接箱/光交箱",
+      "unit": "元/处/年",
+      "range": {
+        "min": 1000,
+        "max": 5000
+      },
+      "notes": "运营商设备占用"
+    }
+  },
+  "parking": {
+    "ground_monthly": {
+      "name": "地面月租车位",
+      "unit": "元/月/个",
+      "range": {
+        "min": 200,
+        "max": 500
+      },
+      "notes": "取决于城市等级"
+    },
+    "temporary": {
+      "name": "临时停车费",
+      "unit": "元/次",
+      "range": {
+        "min": 5,
+        "max": 20
+      },
+      "notes": ""
+    },
+    "air_defense": {
+      "name": "人防车位月租",
+      "unit": "元/月/个",
+      "range": {
+        "min": 200,
+        "max": 800
+      },
+      "notes": "各地差异大"
+    },
+    "electric_vehicle_charging": {
+      "name": "新能源汽车充电桩（公共）",
+      "unit": "元/桩/年",
+      "range": {
+        "min": 800,
+        "max": 3000
+      },
+      "notes": "服务费分成另计"
+    },
+    "visitor_discount": {
+      "name": "访客临时停车",
+      "unit": "元/次",
+      "range": {
+        "min": 10,
+        "max": 30
+      },
+      "notes": "含免费时长后的计费"
+    },
+    "underground_rental": {
+      "name": "地下非人防车位月租",
+      "unit": "元/月/个",
+      "range": {
+        "min": 300,
+        "max": 1200
+      },
+      "notes": "视城市等级和位置"
+    }
+  },
+  "facility": {
+    "community_stall": {
+      "name": "临时摊位/市集摊位",
+      "unit": "元/摊位/天",
+      "range": {
+        "min": 50,
+        "max": 500
+      },
+      "notes": "需业主大会同意，节假日市集"
+    },
+    "swimming_pool": {
+      "name": "泳池（夏季开放）",
+      "unit": "元/季/整体承包",
+      "range": {
+        "min": 50000,
+        "max": 300000
+      },
+      "notes": "视规模和小区档次"
+    },
+    "gym": {
+      "name": "健身房/会所",
+      "unit": "元/年/整体承包",
+      "range": {
+        "min": 30000,
+        "max": 200000
+      },
+      "notes": "视面积和位置"
+    },
+    "kindergarten_room": {
+      "name": "托育/幼儿园用房出租",
+      "unit": "元/㎡/月",
+      "range": {
+        "min": 30,
+        "max": 120
+      },
+      "notes": "视城市和位置"
+    },
+    "elderly_care": {
+      "name": "社区养老服务站",
+      "unit": "元/年",
+      "range": {
+        "min": 0,
+        "max": 50000
+      },
+      "notes": "部分为政府购买服务，收益形式多样"
+    },
+    "storage_room": {
+      "name": "储藏间/杂物间出租",
+      "unit": "元/间/月",
+      "range": {
+        "min": 50,
+        "max": 300
+      },
+      "notes": "视面积"
+    }
+  }
+}

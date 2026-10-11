@@ -1,0 +1,17 @@
+[
+    {
+        "name": "刑法",
+        "bbbs": "ff808181796a636a0179822a19640c92",
+        "output": "database/national/law/刑法_全文.txt"
+    },
+    {
+        "name": "物业管理条例",
+        "bbbs": "ff8080816f3cbb3c016f40daebf30779",
+        "output": "database/national/admin_regulation/物业管理条例_全文.txt"
+    },
+    {
+        "name": "北京市物业管理条例",
+        "bbbs": "ff8081818e750bc6018ef52824412e07",
+        "output": "database/provincial/北京市物业管理条例.txt"
+    }
+]

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "name": "各地公共收益政策数据库",
+    "version": "2.0",
+    "lastUpdated": "2026-10-10",
+    "description": "各省市关于公共收益管理成本上限、分成比例、公示频次、共管账户要求等政策汇总（由data-collection-toolchain扩充至11省）",
+    "provinceCount": 11
+  },
+  "policies": {
+    "guangdong": {
+      "province": "广东省",
+      "managementCostCap": "30%",
+      "initialContractSplitCap": "物业方≤30%",
+      "disclosureFrequency": "每季度",
+      "jointAccountRequired": true,
+      "regulatoryBasis": "《广东省物业管理条例》",
+      "notes": "共管账户强制要求"
+    },
+    "jiangsu": {
+      "province": "江苏省",
+      "managementCostCap": "各地市规定",
+      "initialContractSplitCap": "协商确定",
+      "disclosureFrequency": "每半年",
+      "jointAccountRequired": false,
+      "regulatoryBasis": "《江苏省物业管理条例》",
+      "notes": "各地市细则不同"
+    },
+    "zhejiang": {
+      "province": "浙江省",
+      "managementCostCap": "各地市规定",
+      "initialContractSplitCap": "物业方≤30%",
+      "disclosureFrequency": "每半年",
+      "jointAccountRequired": false,
+      "regulatoryBasis": "《浙江省物业管理条例》",
+      "notes": "前期合同物业方分成不超过30%"
+    },
+    "shanghai": {
+      "province": "上海市",
+      "managementCostCap": "协商确定",
+      "initialContractSplitCap": "协商确定",
+      "disclosureFrequency": "每半年",
+      "jointAccountRequired": false,
+      "regulatoryBasis": "《上海市住宅物业管理规定》",
+      "notes": "建议设立共管账户"
+    },
+    "beijing": {
+      "province": "北京市",
+      "managementCostCap": "协商确定",
+      "initialContractSplitCap": "协商确定",
+      "disclosureFrequency": "每季度",
+      "jointAccountRequired": false,
+      "regulatoryBasis": "《北京市物业管理条例》",
+      "notes": "建议设立共管账户"
+    },
+    "fujian": {
+      "province": "福建省",
+      "managementCostCap": "协商确定",
+      "initialContractSplitCap": "协商确定",
+      "disclosureFrequency": "合同签订7天内公示，公示期不少于30天",
+      "jointAccountRequired": true,
+      "regulatoryBasis": "《福建省物业管理条例》+《福建省住宅小区公共收益管理办法》(2026)",
+      "notes": "专户存储；年度公共收益5万元以上须每年审计"
+    },
+    "henan": {
+      "province": "河南省",
+      "managementCostCap": "协商确定",
+      "initialContractSplitCap": "协商确定",
+      "disclosureFrequency": "每季度公示，公示期不少于30个工作日",
+      "jointAccountRequired": true,
+      "regulatoryBasis": "《河南省物业管理条例》+《河南省住宅小区公共收益管理办法(试行)》(2025)",
+      "notes": "专户存储管理；业主异议须限期答复"
+    },
+    "hainan": {
+      "province": "海南省",
+      "managementCostCap": "协商确定",
+      "initialContractSplitCap": "协商确定",
+      "disclosureFrequency": "每季度至少1次，公示不少于30日",
+      "jointAccountRequired": false,
+      "regulatoryBasis": "《海南省住宅小区公共收益管理的指导意见(试行)》(2026)",
+      "notes": "明确8种公共收益使用情形；业主大会成立后须业主共同决定"
+    },
+    "jiangxi": {
+      "province": "江西省",
+      "managementCostCap": "协商确定",
+      "initialContractSplitCap": "协商确定",
+      "disclosureFrequency": "每半年至少1次（每年1月底、7月底前）",
+      "jointAccountRequired": false,
+      "regulatoryBasis": "《江西省物业管理条例》+《关于规范全省住宅小区公共收益管理的指导意见》",
+      "notes": "业主异议7日内须解释说明"
+    },
+    "sichuan": {
+      "province": "四川省",
+      "managementCostCap": "协商确定",
+      "initialContractSplitCap": "协商确定",
+      "disclosureFrequency": "每半年至少1次",
+      "jointAccountRequired": false,
+      "regulatoryBasis": "《四川省物业管理条例》+川建行规〔2026〕3号",
+      "notes": "物业未经业主大会同意的维修费用不得从公共收益中扣除"
+    },
+    "hubei": {
+      "province": "湖北省",
+      "managementCostCap": "协商确定",
+      "initialContractSplitCap": "协商确定",
+      "disclosureFrequency": "每半年至少1次",
+      "jointAccountRequired": false,
+      "regulatoryBasis": "《湖北省物业服务和管理条例》+《湖北省住宅小区公共收益管理办法(试行)》(2025)",
+      "notes": "明确公共收益属于业主共有"
+    }
+  }
+}
