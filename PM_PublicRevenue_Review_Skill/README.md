@@ -23,7 +23,7 @@
 
 | 文件 | 用途 |
 |---|---|
-| **SKILL.md** | 主入口文件，了解Skill的核心定位、原则和工作流 |
+| **SKILL.md** | 主入口文件，了解Skill的核心定位、原则和工作流（含**报告MD排版规范（强制）**章节） |
 | **references/commands.md** | 6条预设指令的详细说明，告诉AI怎么调用 |
 | **references/trigger-boundary.md** | 触发边界说明，什么情况下启动、什么情况下不适用 |
 | **references/risk-framework.md** | 风险分级框架，🔴/🟠/🟡 三级标准 |
