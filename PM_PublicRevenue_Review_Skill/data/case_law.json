@@ -2,9 +2,12 @@
   "meta": {
     "name": "公共收益审查典型案例数据库",
     "version": "1.0",
-    "lastUpdated": "2026-09-08",
+    "lastUpdated": "2026-10-12",
     "description": "最高人民法院及各省高院关于公共收益的核心判例与裁判规则，按争议类型分类",
-    "usage": "用于审查报告的法规引用和裁判规则参考"
+    "usage": "用于审查报告的法规引用和裁判规则参考",
+    "verifiedCaseCount": 5,
+    "placeholderCaseCount": 20,
+    "citationNote": "verifiedCase=false 的案例案号为占位符（示例规则），非可核验真实判例，审查报告正式引用前须补正真实案号或降级标注为\"示例规则\"。"
   },
   "by_dispute_type": {
     "分成比例争议": [
@@ -22,7 +25,8 @@
         ],
         "riskLevel": "🔴",
         "source": "广东省高级人民法院公报",
-        "relatedLaw": "《民法典》第282条；《广东省物业管理条例》第54条"
+        "relatedLaw": "《民法典》第282条；《广东省物业管理条例》第54条",
+        "verifiedCase": false
       },
       {
         "id": "C-010",
@@ -37,7 +41,8 @@
         ],
         "riskLevel": "🔴",
         "source": "浙江省高级人民法院",
-        "relatedLaw": "《民法典》第282条；《浙江省物业管理条例》"
+        "relatedLaw": "《民法典》第282条；《浙江省物业管理条例》",
+        "verifiedCase": false
       }
     ],
     "侵占与挪用": [
@@ -54,7 +59,8 @@
         ],
         "riskLevel": "🔴",
         "source": "上海法院网",
-        "relatedLaw": "《民法典》第282条；《刑法》第271条"
+        "relatedLaw": "《民法典》第282条；《刑法》第271条",
+        "verifiedCase": false
       },
       {
         "id": "C-003",
@@ -69,7 +75,8 @@
         ],
         "riskLevel": "🔴",
         "source": "江西法院网",
-        "relatedLaw": "《民法典》第282条；《民事诉讼法》执行编"
+        "relatedLaw": "《民法典》第282条；《民事诉讼法》执行编",
+        "verifiedCase": false
       },
       {
         "id": "C-011",
@@ -84,7 +91,8 @@
         ],
         "riskLevel": "🔴",
         "source": "广东省高级人民法院",
-        "relatedLaw": "《刑法》第271条"
+        "relatedLaw": "《刑法》第271条",
+        "verifiedCase": false
       },
       {
         "id": "C-021",
@@ -101,7 +109,8 @@
         ],
         "riskLevel": "🔴",
         "source": "中国裁判文书网/人民法院案例库",
-        "relatedLaw": "《民法典》第282条；《物业管理条例》第54条"
+        "relatedLaw": "《民法典》第282条；《物业管理条例》第54条",
+        "verifiedCase": true
       }
     ],
     "公示义务": [
@@ -118,7 +127,8 @@
         ],
         "riskLevel": "🔴",
         "source": "北京市高级人民法院",
-        "relatedLaw": "《民法典》第943条"
+        "relatedLaw": "《民法典》第943条",
+        "verifiedCase": false
       },
       {
         "id": "C-012",
@@ -133,7 +143,8 @@
         ],
         "riskLevel": "🟠",
         "source": "江苏省高级人民法院",
-        "relatedLaw": "《民法典》第943条；《江苏省物业管理条例》"
+        "relatedLaw": "《民法典》第943条；《江苏省物业管理条例》",
+        "verifiedCase": false
       },
       {
         "id": "C-025",
@@ -148,7 +159,8 @@
         ],
         "riskLevel": "🟠",
         "source": "四川法制报/攀西新闻中心",
-        "relatedLaw": "《民法典》第943条"
+        "relatedLaw": "《民法典》第943条",
+        "verifiedCase": true
       }
     ],
     "成本扣除争议": [
@@ -165,7 +177,8 @@
         ],
         "riskLevel": "🔴",
         "source": "湖北省高级人民法院",
-        "relatedLaw": "《民法典》第282条"
+        "relatedLaw": "《民法典》第282条",
+        "verifiedCase": false
       },
       {
         "id": "C-013",
@@ -181,7 +194,8 @@
         ],
         "riskLevel": "🔴",
         "source": "四川省高级人民法院",
-        "relatedLaw": "《民法典》第282条"
+        "relatedLaw": "《民法典》第282条",
+        "verifiedCase": false
       },
       {
         "id": "C-019",
@@ -197,7 +211,8 @@
         ],
         "riskLevel": "🔴",
         "source": "四川高院第二批涉物业纠纷典型案例",
-        "relatedLaw": "《民法典》第282条；《民法典》第278条"
+        "relatedLaw": "《民法典》第282条；《民法典》第278条",
+        "verifiedCase": false
       },
       {
         "id": "C-022",
@@ -213,7 +228,8 @@
         ],
         "riskLevel": "🔴",
         "source": "上海法院网",
-        "relatedLaw": "《民法典》第282条；《民法典》第278条"
+        "relatedLaw": "《民法典》第282条；《民法典》第278条",
+        "verifiedCase": true
       }
     ],
     "权属争议": [
@@ -230,7 +246,8 @@
         ],
         "riskLevel": "🟠",
         "source": "江苏省高级人民法院公报",
-        "relatedLaw": "《人民防空法》第5条；《民法典》第274条"
+        "relatedLaw": "《人民防空法》第5条；《民法典》第274条",
+        "verifiedCase": false
       },
       {
         "id": "C-005",
@@ -245,7 +262,8 @@
         ],
         "riskLevel": "🟠",
         "source": "江苏省高级人民法院公报",
-        "relatedLaw": "《人民防空法》第5条；《民法典》第274条"
+        "relatedLaw": "《人民防空法》第5条；《民法典》第274条",
+        "verifiedCase": false
       },
       {
         "id": "C-014",
@@ -261,7 +279,8 @@
         ],
         "riskLevel": "🔴",
         "source": "广东省高级人民法院",
-        "relatedLaw": "《民法典》第282条"
+        "relatedLaw": "《民法典》第282条",
+        "verifiedCase": false
       },
       {
         "id": "C-018",
@@ -277,7 +296,8 @@
         ],
         "riskLevel": "🟠",
         "source": "最高人民法院公报",
-        "relatedLaw": "《民法典》第282条；《物业管理条例》第54条"
+        "relatedLaw": "《民法典》第282条；《物业管理条例》第54条",
+        "verifiedCase": false
       },
       {
         "id": "C-023",
@@ -293,7 +313,8 @@
         ],
         "riskLevel": "🔴",
         "source": "中国法院网",
-        "relatedLaw": "《民法典》第274条；《民法典》第278条；《民法典》第985条（不当得利）"
+        "relatedLaw": "《民法典》第274条；《民法典》第278条；《民法典》第985条（不当得利）",
+        "verifiedCase": true
       },
       {
         "id": "C-024",
@@ -309,7 +330,8 @@
         ],
         "riskLevel": "🔴",
         "source": "中国法律服务网",
-        "relatedLaw": "《民法典》第282条"
+        "relatedLaw": "《民法典》第282条",
+        "verifiedCase": true
       }
     ],
     "授权程序争议": [
@@ -326,7 +348,8 @@
         ],
         "riskLevel": "🔴",
         "source": "浙江省高级人民法院",
-        "relatedLaw": "《民法典》第278条；《物业管理条例》第54条"
+        "relatedLaw": "《民法典》第278条；《物业管理条例》第54条",
+        "verifiedCase": false
       },
       {
         "id": "C-015",
@@ -341,7 +364,8 @@
         ],
         "riskLevel": "🟠",
         "source": "上海法院网",
-        "relatedLaw": "《民法典》第278条"
+        "relatedLaw": "《民法典》第278条",
+        "verifiedCase": false
       }
     ],
     "资金安全争议": [
@@ -358,7 +382,8 @@
         ],
         "riskLevel": "🔴",
         "source": "广东省高级人民法院",
-        "relatedLaw": "《民法典》第282条；《民事诉讼法》第67条"
+        "relatedLaw": "《民法典》第282条；《民事诉讼法》第67条",
+        "verifiedCase": false
       },
       {
         "id": "C-020",
@@ -375,7 +400,8 @@
         ],
         "riskLevel": "✅",
         "source": "人民日报客户端",
-        "relatedLaw": "《民法典》第282条；《民法典》第943条；《物业管理条例》第54条"
+        "relatedLaw": "《民法典》第282条；《民法典》第943条；《物业管理条例》第54条",
+        "verifiedCase": false
       }
     ],
     "跨法履行争议": [
@@ -392,7 +418,8 @@
         ],
         "riskLevel": "🔴",
         "source": "广东省高级人民法院公报",
-        "relatedLaw": "《民法典》第282条；最高法《关于适用〈民法典〉时间效力的若干规定》第2条"
+        "relatedLaw": "《民法典》第282条；最高法《关于适用〈民法典〉时间效力的若干规定》第2条",
+        "verifiedCase": false
       },
       {
         "id": "C-017",
@@ -408,7 +435,8 @@
         ],
         "riskLevel": "🔴",
         "source": "浙江省高级人民法院",
-        "relatedLaw": "《民法典》第282条；最高法《关于适用〈民法典〉时间效力的若干规定》第2条"
+        "relatedLaw": "《民法典》第282条；最高法《关于适用〈民法典〉时间效力的若干规定》第2条",
+        "verifiedCase": false
       }
     ]
   },
