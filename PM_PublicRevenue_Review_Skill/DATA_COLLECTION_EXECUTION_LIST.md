@@ -124,7 +124,7 @@
 | 34 | 广西 | `provincial/guangxi/广西壮族自治区住宅小区公共收益管理办法（试行）_2026_全文.txt` | 桂建发〔2026〕2号：来源10类、专户存储 |
 | 35 | 云南 | `provincial/yunnan/云南省物业管理条例_全文.txt` | 2026年推进规范管理 |
 | 36 | 贵州 | `provincial/guizhou/贵州省物业管理条例_全文.txt` | 2026年推进规范管理 |
-| 37 | 甘肃 | `provincial/gansu/甘肃省物业管理条例_全文.txt` | 兰州2026年市级办法 |
+| 37 | 甘肃 | `provincial/gansu/甘肃省物业管理办法（2018年修正）_全文.txt` | 兰州2026年市级办法 |
 | 38 | 青海 | `provincial/qinghai/青海省物业管理条例_全文.txt` | 西宁2026年示范文本 |
 | 39 | 宁夏 | `provincial/ningxia/宁夏回族自治区物业管理条例_全文.txt` | 银川专项治理 |
 | 40 | 新疆 | `provincial/xinjiang/新疆维吾尔自治区物业管理条例_全文.txt` | 征求意见稿2026 |
