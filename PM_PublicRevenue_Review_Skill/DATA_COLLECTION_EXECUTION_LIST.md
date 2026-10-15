@@ -120,7 +120,7 @@
 | 30 | 山东 | `provincial/shandong/山东省物业管理条例_全文.txt` | — |
 | 31 | 湖南 | `provincial/hunan/湖南省物业管理条例_全文.txt` | — |
 | 32 | 重庆 | `provincial/chongqing/重庆市物业管理条例_全文.txt` | — |
-| 33 | 河北 | `provincial/hebei/河北省物业管理条例_全文.txt` | — |
+| 33 | 河北 | `provincial/hebei/河北省物业管理相关法规说明.txt` | — |
 | 34 | 广西 | `provincial/guangxi/广西壮族自治区住宅小区公共收益管理办法（试行）_2026_全文.txt` | 桂建发〔2026〕2号：来源10类、专户存储 |
 | 35 | 云南 | `provincial/yunnan/云南省物业管理条例_全文.txt` | 2026年推进规范管理 |
 | 36 | 贵州 | `provincial/guizhou/贵州省物业管理条例_全文.txt` | 2026年推进规范管理 |
