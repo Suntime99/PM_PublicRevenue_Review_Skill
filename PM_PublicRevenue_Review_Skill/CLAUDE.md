@@ -47,9 +47,9 @@ PM_PublicRevenue_Review_Skill/
 │   ├── case_law.json                 # 公共收益典型案例库
 │   ├── city_rules.json               # 24个城市公共收益细则
 │   └── historical_benchmark.json     # 《物权法》时代参考判例与政策（历史业务审查）
-├── database/                         # 法规全文数据库（含索引README；其中完整全文66部，见 法规完整全文覆盖清单.md）
+├── database/                         # 法规全文数据库（含索引README；其中完整全文68部，见 法规完整全文覆盖清单.md）
 │   ├── README.md                     # 数据库导航索引
-│   ├── national/                     # 国家级法律+行政法规+司法解释（12个）
+│   ├── national/                     # 国家级法律+行政法规+司法解释（14个）
 │   │   ├── law/                      # 民法典/刑法/人民防空法/价格法
 │   │   ├── admin_regulation/         # 物业管理条例/收费办法/承接查验办法等
 │   │   └── judicial_interpretation/    # 3个司法解释全文
