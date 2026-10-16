@@ -40,7 +40,7 @@
 |:------:|------|------|------|
 | KB-PR-D01 | `data/local_policies.json` | 11省公共收益政策核心参数 | 快速比对 |
 | KB-PR-D02 | `data/market_benchmark.json` | 35类收益来源行业均价 | 市场对标 |
-| KB-PR-D03 | `data/case_law.json` | 27个典型案例（其中7个真实案号/官方来源可引用，18个为占位案号示例规则） | 判例引用（⚠️ 引用前查 verifiedCase 字段） |
+| KB-PR-D03 | `data/case_law.json` | 33个典型案例（其中13个真实案号/官方来源可引用，20个为占位案号示例规则） | 判例引用（⚠️ 引用前查 verifiedCase 字段） |
 | KB-PR-D04 | `data/city_rules.json` | 24个城市公共收益细则 | 按城市检索 |
 | KB-PR-D05 | `data/regional_policies.json` | 31省物业管理条例核心参数 | 地域锁定 |
 | KB-PR-D06 | `data/key_legal_clauses.json` | 国家法律+司法解释+部门规章条款+6个合同范本 | 法规引用 |
