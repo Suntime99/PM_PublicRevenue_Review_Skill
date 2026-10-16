@@ -170,7 +170,7 @@
 | 66 | `policy-knowledge/司法解释物业相关条款.md` | 三个司法解释全文+审查应用 |
 | 67 | `policy-knowledge/省级物业管理条例速查表.md` | 31省关键参数对比表 |
 | 68 | `policy-knowledge/城市级公共收益细则汇总.md` | 20+城市细则摘要 |
-| 69 | `policy-knowledge/典型案例裁判规则汇总.md` | 25+案例按争议类型分组 |
+| 69 | `policy-knowledge/典型案例裁判规则汇总.md` | 27案例按争议类型分组（7个可审计引用） |
 | 70 | `policy-knowledge/公共收益政策知识库.md` | 扩充版（当前775字→目标5000+字） |
 
 ---
