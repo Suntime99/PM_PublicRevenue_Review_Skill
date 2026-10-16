@@ -149,15 +149,15 @@
 | 52 | 日喀则 | `municipal/rikaze/日喀则市物业管理条例_2025.txt` | 第16/25条 |
 | 53 | 铜陵 | `municipal/tongling/铜陵市公共收益管理通知_建函〔2026〕80号.txt` | 成本≤30% |
 | 54 | 武汉 | `municipal/wuhan/武汉市物业管理条例_全文.txt` | — |
-| 55 | 长沙 | `municipal/changsha/长沙市物业管理条例_全文.txt` | — |
+| 55 | 长沙 | `municipal/changsha/长沙市物业管理法规说明.txt` | — |
 | 56 | 成都 | `municipal/chengdu/成都市物业管理条例_全文.txt` | — |
 | 57 | 西安 | `municipal/xian/西安市物业管理条例_全文.txt` | — |
 | 58 | 合肥 | `municipal/hefei/合肥市物业管理条例_全文.txt` | — |
 | 59 | 郑州 | `municipal/zhengzhou/郑州市物业管理条例_全文.txt` | — |
 | 60 | 济南 | `municipal/jinan/济南市物业管理条例_全文.txt` | — |
 | 61 | 青岛 | `municipal/qingdao/青岛市物业管理条例_全文.txt` | — |
-| 62 | 福州 | `municipal/fuzhou/福州市物业管理条例_全文.txt` | — |
-| 63 | 厦门 | `municipal/xiamen/厦门市物业管理条例_全文.txt` | — |
+| 62 | 福州 | `municipal/fuzhou/福州市物业管理若干规定_2012修正_全文_完整版.txt` | — |
+| 63 | 厦门 | `municipal/xiamen/厦门市物业管理若干规定_2021修正_全文_完整版.txt` | — |
 
 ---
 
